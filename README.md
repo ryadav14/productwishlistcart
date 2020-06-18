@@ -6,13 +6,13 @@ pre-requisite: make sure you have installed Mongodb database and you are able to
 
 How to run project
 
-1. once project is downloaded, run below command to download all depdencies
+1. once project is downloaded, run below command to download all depdencies </br>
    `npm install`
-2. change directory to /swag-shop-api, run to start the server
+2. change directory to /swag-shop-api, run to start the server </br>
    `nodemon start`
-   you can test it by running http://localhost:3001/product
-3. open another terminal, change directory to /swag-shop-web , run
+   </br>you can test it by running http://localhost:3001/product
+3. open another terminal, change directory to /swag-shop-web , run </br>
    `npm start`
 
-application is up and running on
+</br>application is up and running on </br>
 http://localhost:3000/
